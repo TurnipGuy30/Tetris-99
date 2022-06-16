@@ -133,7 +133,7 @@ Here's what it looks like in a **Matrix**:
 =======================
 ```
 
-When the T-Mino is lowered into the hole, it must be rotated to perform a **T-Spin**. If this **T-Spin** clears two lines, it's a **T-Spin Double**. 
+When the `T`-Mino is lowered into the hole, it must be rotated to perform a **T-Spin**. If this **T-Spin** clears two lines, it's a **T-Spin Double**. 
 
 Of course, the setup you use will depend on what Minoes are in your **Next Queue**. Here's an example of a possible setup:
 
@@ -151,7 +151,7 @@ Of course, the setup you use will depend on what Minoes are in your **Next Queue
 
 (Press `A` when the piece is lowered to rotate clockwise)
 
-Notice that the bottom two lines are filled, except where the T-Mino will go.
+Notice that the bottom two lines are filled, except where the `T`-Mino will go.
 
 ---
 
