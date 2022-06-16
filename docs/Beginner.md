@@ -24,12 +24,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 </td>
 <td>Blue</td>
 <td>
-
-```
-J - -
-J J J
-```
-
+<pre>J - -<br>J J J</pre>
 </td>
 </tr>
 
@@ -41,12 +36,7 @@ J J J
 </td>
 <td>Orange</td>
 <td>
-
-```
-- - L
-L L L
-```
-
+<pre>- - L<br>L L L</pre>
 </td>
 </tr>
 
@@ -58,12 +48,7 @@ L L L
 </td>
 <td>Green</td>
 <td>
-
-```
-- S S
-S S -
-```
-
+<pre>- S S<br>S S -</pre>
 </td>
 </tr>
 
@@ -75,12 +60,7 @@ S S -
 </td>
 <td>Red</td>
 <td>
-
-```
-Z Z -
-- Z Z
-```
-
+<pre>Z Z -<br>- Z Z</pre>
 </td>
 </tr>
 
@@ -92,12 +72,7 @@ Z Z -
 </td>
 <td>Yellow</td>
 <td>
-
-```
-O O
-O O
-```
-
+<pre>O O<br>O O</pre>
 </td>
 </tr>
 
@@ -109,11 +84,7 @@ O O
 </td>
 <td>Cyan</td>
 <td>
-
-```
-I I I I
-```
-
+<pre>I I I I</pre>
 </td>
 </tr>
 
@@ -125,12 +96,7 @@ I I I I
 </td>
 <td>Purple</td>
 <td>
-
-```
-- T -
-T T T
-```
-
+<pre>- T -<br>T T T</pre>
 </td>
 </tr>
 
