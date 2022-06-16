@@ -19,8 +19,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 <tr>
 <td>
 
-`J`
-
+`J</code>
 </td>
 <td>Blue</td>
 <td>
@@ -30,9 +29,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 
 <tr>
 <td>
-
-`L`
-
+<code>L</code>
 </td>
 <td>Orange</td>
 <td>
@@ -42,9 +39,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 
 <tr>
 <td>
-
-`S`
-
+<code>S</code>
 </td>
 <td>Green</td>
 <td>
@@ -54,9 +49,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 
 <tr>
 <td>
-
-`Z`
-
+<code>Z</code>
 </td>
 <td>Red</td>
 <td>
@@ -66,9 +59,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 
 <tr>
 <td>
-
-`O`
-
+<code>O</code>
 </td>
 <td>Yellow</td>
 <td>
@@ -78,9 +69,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 
 <tr>
 <td>
-
-`I`
-
+<code>I</code>
 </td>
 <td>Cyan</td>
 <td>
@@ -90,9 +79,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 
 <tr>
 <td>
-
-`T`
-
+<code>T</code>
 </td>
 <td>Purple</td>
 <td>
@@ -156,7 +143,7 @@ If you clear lines with many consequetive Tetriminoes, you gain a **Combo**. Thi
 
 ## **T-Spins** & **T-Spin Singles**
 
-When lowering a T-mino into a tight spot like the following:
+When lowering a T-Mino into a tight spot like the following:
 
 ```
 |- - - - - T - - -|
