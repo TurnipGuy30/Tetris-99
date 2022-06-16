@@ -88,6 +88,7 @@ Possible **Matrix** setup
 
 </td>
 </tr>
+</table>
 
 ### Use The **Hold Queue**
 
