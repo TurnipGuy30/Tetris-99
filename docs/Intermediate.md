@@ -40,52 +40,48 @@ Here are some examples of opening setups that leave the left column clear.
 <tr>
 <th>
 
-Starting Mino and **Hold Queue**
+Starting Mino and <strong>Hold Queue</strong>
 
 </th>
 <th>
 
-Possible **Matrix** setup
+Possible <strong>Matrix</strong> setup
 
 </th>
 </tr>
 <tr>
 <td>
 
-`J`, `L`, `S`, `Z`, `O`, `T`
+<code>J</code>, <code>L</code>, <code>S</code>, <code>Z</code>, <code>O</code>, <code>T</code>
 
 </td>
-<td>
-
-```
+<td><pre>
 | - - - - - - - - O O |
 | - - - - - - - - O O |
 | - - - Z - - - T T T |
 | - J - Z Z - S S T L |
 | - J J J Z S S L L L |
 =======================
-```
+</pre>
 
-(**Hold** `O`, place `O` after `T`)
+(<strong>Hold</strong> <code>O</code>, place <code>O</code> after <code>T</code>)
 
 </td>
 </tr>
 <tr>
 <td>
 
-`T`, `I`, `O`, `S`, `J`, `Z`
+<code>T</code>, <code>I</code>, <code>O</code>, <code>S</code>, <code>J</code>, <code>Z</code>
 
 </td>
 <td>
-
-```
+<pre>
 | - - - - Z S - - - - |
 | - - - Z Z S S J - - |
 | - - T Z O O S J J J |
 | - T T T O O I I I I |
 =======================
-```
-
+</pre>
 </td>
 </tr>
 </table>
