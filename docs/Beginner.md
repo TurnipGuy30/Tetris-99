@@ -19,7 +19,7 @@ There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined block
 <tr>
 <td>
 
-`J</code>
+<code>J</code>
 </td>
 <td>Blue</td>
 <td>
