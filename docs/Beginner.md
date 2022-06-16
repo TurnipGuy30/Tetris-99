@@ -1,10 +1,10 @@
 [First Page](README.md) | [Introduction](Intro.md) | Rules and Beginner Skills | [Intermediate Skills](Intermediate.md) | [Advanced Skills](Advanced.md) | [Other Information](Other.md)
 
-## Rules and Beginner Skills
+# Rules and Beginner Skills
 
 This is where everyone starts: the very basics.
 
-### Tetriminoes
+## Tetriminoes
 
 There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined blocks. They are named after the letters they look like:
 
@@ -138,11 +138,11 @@ T T T
 
 Mentally associating the colours with the shapes will be helpful as the game gets faster, as you will not have to look at the Mino to know the shape.
 
-### Tetrimino Randomisation
+## Tetrimino Randomisation
 
 Tetriminoes drop from the top of the **Matrix** by what is known as the **Bag Randomisation** method. Imagine a bag that hold 7 Tetriminoes; one of each kind. Now, imagine one of those Minoes is pulled out of the bag at random, and drops. When that Mino is locked down, another is pulled out of the bag, and this repeats. When the bag is empty, you get a new bag, and another, and more until the game is over. This means that getting 2 of the same Mino in a row is rare, and 3 in 8 is impossible.
 
-### Tetrimino Rotation
+## Tetrimino Rotation
 
 This guide will use the following notation for **Matrix** diagrams:
 
@@ -152,7 +152,7 @@ This guide will use the following notation for **Matrix** diagrams:
 | `X` | filled slot (non-specific) |
 | `J`/`L`/`S`/`Z`/`O`/`I`/`T` | filled with Mino of that shape |
 
-### Screen Layout
+## Screen Layout
 
 - The big rectangle in the centre of the screen is your **Matrix** (plural **Matrices**); this is where you drop Tetriminoes, and where **Junk** appears.
 - The vertical bar on the left shows how much **Junk** other players are sending you.
@@ -160,7 +160,7 @@ This guide will use the following notation for **Matrix** diagrams:
 - The box on the top-left is your **Hold Queue**; this is where your Held Minoes will be stored.
 - The boxes on the top-right and going down make up the **Next Queue**. When your current Tetrimino is Locked Down, the Mino at the top of the **Next Queue** will drop.
 
-### Controls
+## Controls
 
 **Tetris 99** has very simple controls, however it can take a while to get used to constantly pressing various buttons.
 
@@ -180,15 +180,15 @@ This guide will use the following notation for **Matrix** diagrams:
 - **Hard Dropping** a Mino makes it automatically drop and **Lock Down** in the location of the **Ghost Piece**. Always be careful with **Hard Drops**.
 - Holding a Mino makes it go into the **Hold Queue**. Minoes in the **Hold Queue** can be held for as long as you want. If there is already a Mino in the **Hold Queue**, it gets swapped out. After **Holding** a Mino, you cannot **Hold** again until your current Mino is **Locked Down**. This means the **Hold Queue** must be used wisely.
 
-### Targeting
+## Targeting
 
 You can use the `C-Stick` (or Right Stick) to choose your Targeting method. Your Target is who you send **Junk** to. The four options are **Random** (default), **Attackers**, **Badges**, and **K.Os**.
 
-### Combos
+## Combos
 
 If you clear lines with many consequetive Tetriminoes, you gain a **Combo**. This **Combo** keeps going until you **Lock Down** a Mino without a **Line Clear**.
 
-### **T-Spins** & **T-Spin Singles**
+## **T-Spins** & **T-Spin Singles**
 
 When lowering a T-mino into a tight spot like the following:
 
@@ -210,7 +210,7 @@ You can spin the Mino inside the slot to fill the space and perform a T-Spin. In
 
 If you manage to clear a line using this spun Mino, it's called a **T-Spin Single**.
 
-### Clearing Multiple Lines & **Tetrises**
+## Clearing Multiple Lines & **Tetrises**
 
 With so many kinds of Tetriminoes, it is sometimes easy to clear multiple lines at once. The best of these **Multi-Line Clears** is the **Tetris Line Clear**, commonly known as a **Tetris**. Performing **Tetrises** can be tricky at first, but with practice they becomes second-nature.
 
@@ -232,7 +232,7 @@ With so many kinds of Tetriminoes, it is sometimes easy to clear multiple lines 
 
 Like the **T-Spin**, this a very helpful technique. You can start using this strategy right away.
 
-### Sending **Junk**
+## Sending **Junk**
 
 Clearing multiple lines at once sends more **Junk** to opponents.
 
