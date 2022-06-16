@@ -10,7 +10,7 @@ WIP
 
 ## **Perfect Clears**
 
-The **Perfect Clear** (AKA **All Clear**) occurs when all Tetriminoes are cleared from the **Matrix**, i.e. the **Matrix** is empty. This can be tricky to pull off, and may be unnecessary to learn, but just keep it in mind. You never know when it might come in handy!
+The **Perfect Clear** (AKA **All Clear**) occurs when all Tetriminoes are cleared from the **Matrix**, i.e. the **Matrix** is empty. This mechanic takes practice, and is not always possible, but is good practice for **Matrix** management. Performing a **Perfect Clear** will display a message in the **Matrix**, and send four **Junk** lines.
 
 ## **Tetris Maximus**
 
