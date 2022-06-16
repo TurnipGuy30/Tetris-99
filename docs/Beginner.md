@@ -6,7 +6,7 @@ This is where everyone starts: the very basics.
 
 ## Tetriminoes
 
-There are 7 types of Tetriminoes (Tetris pieces), each made up of 4 joined blocks. They are named after the letters they look like:
+There are seven types of Tetriminoes (Tetris pieces), each made up of four joined blocks. They are named after the letters they look like:
 
 <table>
 
@@ -93,9 +93,9 @@ Mentally associating the colours with the shapes will be helpful as the game get
 
 ## Tetrimino Randomisation
 
-Tetriminoes drop from the top of the **Matrix** by what is known as the **Bag Randomisation** method. Imagine a bag that hold 7 Tetriminoes; one of each kind. Now, imagine one of those Minoes is pulled out of the bag at random, and drops. When that Mino is locked down, another is pulled out of the bag, and this repeats. When the bag is empty, you get a new bag, and another, and more until the game is over. This means that getting 2 of the same Mino in a row is rare, and 3 in 8 is impossible.
+Tetriminoes drop from the top of the **Matrix** by what is known as the **Bag Randomisation** method. Imagine a bag that hold seven Tetriminoes; one of each kind. Now, imagine one of those Minoes is pulled out of the bag at random, and drops. When that Mino is locked down, another is pulled out of the bag, and this repeats. When the bag is empty, you get a new bag, and another, and more until the game is over. This means that getting two of the same Mino in a row is rare, and three in eight is impossible.
 
-## Tetrimino Rotation
+## Tetrimino Notation
 
 This guide will use the following notation for **Matrix** diagrams:
 
@@ -107,7 +107,7 @@ This guide will use the following notation for **Matrix** diagrams:
 
 ## Screen Layout
 
-- The big rectangle in the centre of the screen is your **Matrix** (plural **Matrices**); this is where you drop Tetriminoes, and where **Junk** appears.
+- The big rectangle in the centre of the screen is your **Matrix**. This is where you drop Tetriminoes, and where **Junk** appears.
 - The vertical bar on the left shows how much **Junk** other players are sending you.
 - The small boxes all around your **Matrix** are other player's **Matrices**.
 - The box on the top-left is your **Hold Queue**; this is where your Held Minoes will be stored.
@@ -133,17 +133,24 @@ This guide will use the following notation for **Matrix** diagrams:
 - **Hard Dropping** a Mino makes it automatically drop and **Lock Down** in the location of the **Ghost Piece**. Always be careful with **Hard Drops**.
 - Holding a Mino makes it go into the **Hold Queue**. Minoes in the **Hold Queue** can be held for as long as you want. If there is already a Mino in the **Hold Queue**, it gets swapped out. After **Holding** a Mino, you cannot **Hold** again until your current Mino is **Locked Down**. This means the **Hold Queue** must be used wisely.
 
-## Targeting
+## **Targeting**
 
-You can use the `C-Stick` (or Right Stick) to choose your Targeting method. Your Target is who you send **Junk** to. The four options are **Random** (default), **Attackers**, **Badges**, and **K.Os**.
+You can use the `C-Stick` (or Right Stick) to choose your **Targeting** method. Your Target is who you send **Junk** to. The four options are **Random** (default), **Attackers**, **Badges**, and **K.Os**.
 
-## Combos
+| Targeting | Description |
+|:--|:--|
+| `Random` | Randomly sends **Junk** to other players |
+| `Attackers` | Sends **Junk** to players who have attacked you |
+| `Badges` | Sends **Junk** to the player with the most **Badges** |
+| `K.Os` | Sends **Junk** to the player who has defeated the most players |
 
-If you clear lines with many consequetive Tetriminoes, you gain a **Combo**. This **Combo** keeps going until you **Lock Down** a Mino without a **Line Clear**.
+## **Combos**
+
+If you clear lines with many consequetive Tetriminoes, you gain a **Combo**. This **Combo** keeps going until you **Lock Down** a Mino without a **Line Clear**. The **Combo** is shown in the top-left of the screen.
 
 ## **T-Spins** & **T-Spin Singles**
 
-When lowering a T-Mino into a tight spot like the following:
+When lowering a `T`-Mino into a tight spot like the following:
 
 ```
 |- - - - - T - - -|
@@ -159,15 +166,15 @@ When lowering a T-Mino into a tight spot like the following:
 
 You can spin the Mino inside the slot to fill the space and perform a T-Spin. In the above example, lower the Mino into the space, and press `B` (rotate counterclockwise) before the it **Locks Down**. This gives a pop-up on the left that says "**T-Spin**".
 
-> Remember: a **T-Spin** only occurs when a T-Mino **Locks Down** in a position that it could only access by rotating.
+> Remember: a **T-Spin** only occurs when a `T`-Mino **Locks Down** in a position that it could only access by rotating.
 
 If you manage to clear a line using this spun Mino, it's called a **T-Spin Single**.
 
 ## Clearing Multiple Lines & **Tetrises**
 
-With so many kinds of Tetriminoes, it is sometimes easy to clear multiple lines at once. The best of these **Multi-Line Clears** is the **Tetris Line Clear**, commonly known as a **Tetris**. Performing **Tetrises** can be tricky at first, but with practice they becomes second-nature.
+With so many kinds of Tetriminoes, it is sometimes easy to clear multiple lines at once. The best of these **Multi-Line Clears** is the **Tetris Line Clear**, commonly known as a **Tetris**. A **Tetris** is when four lines are cleared with a single Mino; this is only possible with the `I`-Mino, as this is the only Mino that can reach across four rows. Performing **Tetrises** can be tricky at first, but with practice they becomes second-nature.
 
-**Tetrises** involve filling all but one column, each full to at least 4 rows. This can easily be done in the left or right 9 columns, leaving the one on the edge. Here's an example:
+**Tetrises** involve filling all but one column, each full to at least four rows. This can easily be done in the left or right 9 columns, leaving the one on the edge. Here's an example:
 
 ```
 | I - - - - - - - - - |
@@ -196,7 +203,7 @@ Clearing multiple lines at once sends more **Junk** to opponents.
 | 3 | 2 |
 | 4 (**Tetris**) | 4 |
 
-If you clear 1, 2, or 3 lines using a **T-Spin** (more on those later), it sends double the **Junk**. This means that a **T-Spin Triple** sends 6 lines, which is more than a **Tetris**!
+If you clear one, two, or three lines using a **T-Spin** (more on those later), it sends double the **Junk**. This means that a **T-Spin Triple** sends six lines, which is more than a **Tetris**!
 
 ---
 
