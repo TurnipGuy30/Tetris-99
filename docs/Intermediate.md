@@ -1,14 +1,14 @@
 [First Page](README.md) | [Introduction](Intro.md) | [Rules and Beginner Skills](Beginner.md) | Intermediate Skills | [Advanced Skills](Advanced.md) | [Other Information](Other.md)
 
-## Intermediate Skills
+# Intermediate Skills
 
 These moves build off the previous page; try them out whenever you feel ready.
 
-### **Back-to-Backs**
+## **Back-to-Backs**
 
 Performing **Tetrises** and **T-Spins** with no other **Line Clears** in between grants a special combo; the **Back-to-Back**. Keeping a **Back-to-Back** going sends a lot of **Junk**.
 
-### Where To Drop Pieces
+## Where To Drop Pieces
 
 Here, I will explain how to efficiently place pieces in your Matrix. There are two things to keep in mind when deciding where to place a piece:
 
@@ -17,7 +17,7 @@ Here, I will explain how to efficiently place pieces in your Matrix. There are t
 
 In **Tetris 99**, a good defence *is* the best offence. The ability to maintain the **Matrix** is what separates the best players from the intermediate players. Here's what you can do to make your gameplay that little bit better.
 
-#### Perform **Tetris Line Clears**
+### Perform **Tetris Line Clears**
 
 Setting yourself up for **Tetrises** means leaving one column free. The easiest way to do this is by leaving a side column empty. An early-game **Matrix** might look like this:
 
@@ -30,7 +30,7 @@ Setting yourself up for **Tetrises** means leaving one column free. The easiest 
 =======================
 ```
 
-#### Begin Quickly
+### Begin Quickly
 
 Immediately after the game starts, you are given your first Mino and a **Hold Queue**. This information should tell you how to begin your game. Remember that each Mino in the initial **Hold Queue** is unique, according to the **Bag Randomisation** rule.
 
@@ -89,23 +89,23 @@ Possible **Matrix** setup
 </td>
 </tr>
 
-#### Use The **Hold Queue**
+### Use The **Hold Queue**
 
 The **Hold Queue** lets you save useful Minoes for later use, or temporarily set aside a Mino that you can't use at that time.
 
 Remember that **Holding** a Mino means you must use the next Mino you get, so be careful.
 
-#### Don't Make "Towers"
+### Don't Make "Towers"
 
 WIP
 
-#### Practice!
+### Practice!
 
 Being able to make fast decisions means you don't have to stress as the game gets faster. This ability only comes from practice. Getting out there is the best way to get better at **Tetris**.
 
 If you can effectively plan ahead, the only thing left to worry about is being targeted by many players at once. And while that is usually out of your control, there can sometimes be a workaround.
 
-### **T-Spin Doubles**
+## **T-Spin Doubles**
 
 A **T-Spin Double** occurs when two lines are cleared with a single **T-Spin**.
 
