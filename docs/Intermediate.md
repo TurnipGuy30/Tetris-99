@@ -94,7 +94,11 @@ Remember that **Holding** a Mino means you must use the next Mino you get, so be
 
 ### Don't Make "Towers"
 
-WIP
+When building in this style, you should generally try to keep the top surface level. This prevents Minoes from being stuck in place while trying to move them, but also gives you more opportunities to place Minoes.
+
+Often while playing **Tetris**, you will be given a Mino that could fit in two or more places. When you find yourself in this situaition, look at your **Next Queue**. Imagine fitting your **Next Minoes** onto the **Matrix** around the Mino you are about to place. If they don't all fit, try again with a different position. Planning ahead in this way means you will be able to quickly place Minoes as they fall.
+
+Just remember that there's not always a way to perfectly fit a Mino into your **Matrix**. This is normal in **Tetris**, and requires some extra thinking. You could place a Mino in an unusual place, then build around it.
 
 ### Practice!
 
@@ -135,7 +139,7 @@ Here's what it looks like in a **Matrix**:
 
 When the `T`-Mino is lowered into the hole, it must be rotated to perform a **T-Spin**. If this **T-Spin** clears two lines, it's a **T-Spin Double**. 
 
-Of course, the setup you use will depend on what Minoes are in your **Next Queue**. Here's an example of a possible setup:
+Of course, the setup you use will depend on what Minoes you are given in your **Next Queue**. Here's an example of a possible setup:
 
 ```
 | - - - - T - - - - - |
