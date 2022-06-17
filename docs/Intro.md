@@ -33,4 +33,6 @@
 =======================
 ```
 
+---
+
 [Next Page: Rules and Beginner Skills](Beginner.md)
