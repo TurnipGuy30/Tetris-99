@@ -106,6 +106,10 @@ Being able to make fast decisions means you don't have to stress as the game get
 
 If you can effectively plan ahead, the only thing left to worry about is being targeted by many players at once. And while that is usually out of your control, there can sometimes be a workaround.
 
+## Changing **Targets**
+
+WIP
+
 ## **T-Spin Doubles**
 
 A **T-Spin Double** occurs when two lines are cleared with a single **T-Spin**.
