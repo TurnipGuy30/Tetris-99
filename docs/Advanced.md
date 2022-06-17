@@ -54,5 +54,10 @@ The **Perfect Clear** (AKA **All Clear**) occurs when all Tetriminoes are cleare
 
 It's what everyone craves from their first game of **Tetris 99**: The mystical title of **Tetris Maximus**. If you manage to surpass all 98 others, you will be crowned with this beautiful title across your screen. Good luck!
 
+---
+
+> Practice:
+> - **T-Spin Triples**
+> - **Perfect Clears**
 
 [Next Page: Other Information](Other.md)
