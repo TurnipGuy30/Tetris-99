@@ -2,11 +2,49 @@
 
 # Advanced Skills
 
-Here are some advanced techniques and rules; easy to understand, but in the heat of a match, difficult to pull off.
+Here are some advanced techniques and rules that won't always fit in with your play style, but are worth keeping in mind.
 
 ## **T-Spin Triples**
 
-WIP
+The hardest **T-Spin** to perform is the **T-Spin Triple**. It requires a precise setup where a `T`-Mino is kicked into a slot. Here's what it looks like:
+
+```
+| - - T - - - - - - - |
+| - T T T - - - - - - |
+| - - - - - - - - - - |
+| - - - - X X - - - - |
+| - - - - - X X X X X |
+| X X X X - X X X X X |
+| X X X - - X X X X X |
+| X X X X - X X X X X |
+=======================
+```
+
+The `T`-Mino must be moved down, then right, then rotated counterclockwise to **Wall Kick** into the T-shaped slot below.
+
+Also, there is an overhang left over after the **T-Spin Triple** is performed.
+
+```
+| - - - - X X - - - - |
+| - - - - - X X X X X |
+=======================
+```
+
+This is an example of a setup for a **T-Spin Triple**:
+
+```
+| - - T - - - - - - - |
+| - T T T - - - - - - |
+| - - - - - S S - - - |
+| - - - - S S Z J - - |
+| I - - - - Z Z J - - |
+| I L L L - Z J J O O |
+| I L T - - O O L O O |
+| I T T T - O O L L L |
+=======================
+```
+
+While the **T-Spin Triple** is difficult to set up, it sends the most **Junk** of any single-Mino clear. Try performing a **T-Spin Triple** at the start of your next round.
 
 ## **Perfect Clears**
 
